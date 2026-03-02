@@ -1,11 +1,36 @@
+<div align="center">
 
-  # infinall next js
+# Infinallnextjs
 
-  This is a code bundle for infinall next js. The original project is available at https://www.figma.com/design/77XQ5G5s8Sn9kkdgSiO8VL/infinall-next-js.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
 
-  ## Running the code
+*An advanced software structure developed by Karthik Idikuda.*
 
-  Run `npm i` to install the dependencies.
+<br/>
 
-  Run `npm run dev` to start the development server.
-  
+</div>
+
+## Overview
+Comprehensive SaaS for building and deploying custom AI agents.
+
+<br/>
+
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
+
+<br/>
+
+## License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
+
+---
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>
